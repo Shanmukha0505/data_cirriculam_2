@@ -42,10 +42,6 @@ The project's objective is to create a hybrid recommendation engine that offers 
 
 ## Repository Structure
 
-> Adjust paths if your repo differs, but the idea is to keep weeks and logic clearly separated.
-
-```text
-.
 ├── week1.ipynb         # Environment setup, data download, basic exploration
 ├── week2.ipynb         # Data cleaning, integration, initial EDA
 ├── week3&4.ipynb       # Feature engineering, embeddings, TF-IDF
