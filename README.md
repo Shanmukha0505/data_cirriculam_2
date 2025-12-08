@@ -50,6 +50,5 @@ The project's objective is to create a hybrid recommendation engine that offers 
 ├── week5.ipynb         # Baseline models (SVD, K-NN) + initial hybrid model work
 ├── week6.ipynb         # LightFM and NCF model training & tuning
 ├── week7&8.ipynb       # Ablation studies, interpretation, final analysis, demo wiring
-├── streamlit_app.py    # Streamlit front-end for the recommender (if in repo)
-├── requirements.txt    # Python dependencies (to be created/updated)
-└── README.md           # Project documentation (this file)
+├── requirements.txt    # Python dependencies
+└── README.md           # Project documentation
