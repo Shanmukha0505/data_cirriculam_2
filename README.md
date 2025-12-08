@@ -42,6 +42,8 @@ The project's objective is to create a hybrid recommendation engine that offers 
 
 ## Repository Structure
 
+```text
+.
 ├── week1.ipynb         # Environment setup, data download, basic exploration
 ├── week2.ipynb         # Data cleaning, integration, initial EDA
 ├── week3&4.ipynb       # Feature engineering, embeddings, TF-IDF
