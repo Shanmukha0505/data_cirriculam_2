@@ -25,7 +25,7 @@ The project's objective is to create a hybrid recommendation engine that offers 
 
 - **Multiple model families**
   - Baseline collaborative filtering: SVD, K-NN
-  - Hybrid models: LightFM, Neural Collaborative Filtering (NCF)
+  - Hybrid models: LightFM, Neural Collaborative Filtering 
 - **Hybrid signal fusion**
   - Interaction data (clicks/ratings/implicit feedback)
   - Content features (TF-IDF from product titles/descriptions)
