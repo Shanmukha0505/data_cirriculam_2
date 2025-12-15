@@ -73,7 +73,7 @@ The final tuned model represents a **57.96% improvement in RMSE** over the tradi
 
 <!-- Placeholder for Model Performance Chart -->
 **Model Performance Comparison (RMSE)**
-`![Model Performance Chart](images/model_performance_chart.png)`
+![Model Performance Chart](images/model_performance_chart.png)
 
 ### Ranking & Business Metrics
 
